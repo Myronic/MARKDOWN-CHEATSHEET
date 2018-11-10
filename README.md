@@ -145,7 +145,7 @@ git clone https://github.com/YOUR-USERNAME/markdownFundamentals
 
 cd markdownFundamentals
 
-git init
+git init master
 
 git remote add origin https://github.com/YOUR-USERNAME/markdownFundamentals
 

@@ -1,7 +1,7 @@
-# markdownFundamentals
-A complete cheatsheet with examples for all basic syntax used in a README.md file
+#  markdownFundamentals :page_facing_up: 
+A complete cheatsheet with examples well commented, for all basic syntax used in a README.md file :blush:
 ___
-# MARKDOWN CHEATSHEET
+# MARKDOWN CHEATSHEET :memo:
 <!-- for inserting an image -->
 >image:
 
@@ -159,8 +159,9 @@ git commit -m "add a commit message here"
 
 git push origin master
 ```
-all changes thus made in local repo (your repo on pc) is now reflected in your remote repo(your repo on github), now you can send a pr via github to  main repo (this repo from where you forked). 
+all changes thus made in local repo (your repo on pc) is now reflected in your remote repo(your repo on github), now you can send a pr via github to  main repo (this repo from where you forked)
 
 ##### For quick brush of what all just happened here watch this video by Brad Traversy :
-[Markdown crash course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-
+[Markdown crash course](https://www.youtube.com/watch?v=HUBNt18RFbo)  
+For all emojis : [Click here](https://gist.github.com/Myronic/02ac89d4d9dd2126f8f531b34981e287)  
+###### -myronic :wink:

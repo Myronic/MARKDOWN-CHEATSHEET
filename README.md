@@ -161,7 +161,6 @@ git push origin master
 ```
 all changes thus made in local repo (your repo on pc) is now reflected in your remote repo(your repo on github), now you can send a pr via github to  main repo (this repo from where you forked)
 
-##### For quick brush of what all just happened here watch this video by Brad Traversy :
-[Markdown crash course](https://www.youtube.com/watch?v=HUBNt18RFbo)  
+##### For quick brush of what all just happened here watch this video by Brad Traversy :[Markdown crash course](https://www.youtube.com/watch?v=HUBNt18RFbo)  
 For all emojis : [Click here](https://gist.github.com/Myronic/02ac89d4d9dd2126f8f531b34981e287)  
 ###### -myronic :wink:

@@ -1,7 +1,5 @@
-#  markdownFundamentals :page_facing_up: 
-A complete cheatsheet with examples well commented, for all basic syntax used in a README.md file :blush:
-___
-# MARKDOWN CHEATSHEET :memo:
+# MARKDOWN-CHEATSHEET :memo:
+A complete cheatsheet with examples, well commented, for all basic syntax used in a README.md file :blush:
 <!-- for inserting an image -->
 >image:
 
@@ -56,7 +54,7 @@ ___
 
 my insta link: 
 [@MYRONIC](https://www.instagram.com/myronic/)
-<!-- try adding your own insta or any social media link :D -->
+<!-- try appending your own insta or any social media link :D -->
 ___
 <!-- ul -->
 >unordered lists:
@@ -136,20 +134,19 @@ Say you want to
 * and send a pull req to main repo(this repo) 
 
 
-First fork this repo.  
-Now
-Run these commands in terminal
+First, fork this repo.  
+next, run these commands in terminal
 (make sure git is installed. to check: `git --version`)
 ```bash
-git clone https://github.com/YOUR-USERNAME/markdownFundamentals
+git clone https://github.com/YOUR-USERNAME/MARKDOWN-CHEATSHEET
 
-cd markdownFundamentals
+cd MARKDOWN-CHEATSHEET
 
 git init master
 
-git remote add origin https://github.com/YOUR-USERNAME/markdownFundamentals
+git remote add origin https://github.com/YOUR-USERNAME/MARKDOWN-CHEATSHEET
 
-git remote add upstream https://github.com/Myronic/markdownFundamentals
+git remote add upstream https://github.com/Myronic/MARKDOWN-CHEATSHEET
 
 <<make the desired changes>> 
 
@@ -159,7 +156,14 @@ git commit -m "add a commit message here"
 
 git push origin master
 ```
-all changes thus made in local repo (your repo on pc) is now reflected in your remote repo(your repo on github), now you can send a pr via github to  main repo (this repo from where you forked)
+all changes thus made in local repo (your repo on pc) is now reflected in your remote repo(your repo on github), now you can send a pr via github to  main repo (this repo from where you forked). Later on, incase you need to sync your local/remote repo with the main repo use the following commands:  
+```bash  
+git fetch upstream 
+
+git merge upstream/master
+
+git push origin master
+```
 
 ##### For quick brush of what all just happened here watch this video by Brad Traversy :[Markdown crash course](https://www.youtube.com/watch?v=HUBNt18RFbo)  
 For all emojis : [Click here](https://gist.github.com/Myronic/02ac89d4d9dd2126f8f531b34981e287)  

@@ -148,7 +148,7 @@ git remote add origin https://github.com/YOUR-USERNAME/MARKDOWN-CHEATSHEET
 
 git remote add upstream https://github.com/Myronic/MARKDOWN-CHEATSHEET
 
-<<make the desired changes>> 
+<---make the desired changes--->
 
 git add .
 

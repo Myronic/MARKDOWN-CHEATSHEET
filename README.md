@@ -66,7 +66,7 @@ ___
         * 2.2.1
             * bas na ab.
 ___
->unordered lists:
+>ordered lists:
 
 <!-- ol -->
 1. item1

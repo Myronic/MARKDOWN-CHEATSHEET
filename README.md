@@ -7,13 +7,13 @@ A complete cheatsheet with examples, well commented, for all basic syntax used i
 ___ 
 >headings:
 <!-- headings -->
-# heading1
+# Inspriation can take you 
 <!-- heading1 owns a horizontal rule under it by default -->
-## heading2
-### heading3
-#### heading4
-##### heading5
-###### heading6
+## from A to B, but imagination
+### can take you from A 
+#### to whatever
+##### you want
+###### to Be!
 ---
 
 <!-- itlacis bolds strikethroughs -->
